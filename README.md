@@ -1,2 +1,0 @@
-# Hub-ICTuew-workshop
-Projects
